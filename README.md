@@ -26,6 +26,24 @@
 
                               ⏭️⏭️ THEN YOU HAVE TO DESIGN YOUR APP ON THE BASIS OF YOUR CHOICES ⏮️⏮️
 
+
+                              🟡🟡AS FAR AS I HAVE USED  FIRTS YOU NEED TO CREATE A BLANK APP THEN USE THE GIVEN OBJECTS LIKE
+                              
+                              1>COLUMN
+                              2>TEXT-BOX
+                              3>LABEL-BOX
+                              4>LINKS
+                              5>DATA-HOLDER
+                              6>BUTTONS
+                              7>CALENDER
+                              8>DROP-DOWN
+                              AND MANY OTHER THINGS
+                              🟡🟡
+
+⏮️⏺️NOW YOU NEED TO WRITE THE PYTHON CODE TO ACCESS THOSE DATA BY CREATING A def FUNCTION ⏺️⏭️
+
+⏮️⏺️THEN YOU NEED TO CREATE A DATABASE WITH THE DATABASE SECTION WHERE YOU CAN SEE THE DATA STORED FROM THE USER WHO GAVE LOGGED IN TO YOUR WEBSITE  ⏺️⏭️
+
                               
 
 
