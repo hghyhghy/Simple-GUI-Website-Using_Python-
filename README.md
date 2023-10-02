@@ -1,9 +1,9 @@
 # GUI-Website-Using_Python-
+![Screenshot (32)](https://github.com/hghyhghy/Simple-GUI-Website-Using_Python-/assets/140393712/08224d8b-0bf5-4a41-9ae6-165346e1606e)
 
-                                    ![Screenshot (32)](https://github.com/hghyhghy/Simple-GUI-Website-Using_Python-/assets/140393712/1c818d76-16bc-49fa-81ea-671aacad5b26)
 
-                                    ![Screenshot (31)](https://github.com/hghyhghy/Simple-GUI-Website-Using_Python-/assets/140393712/7f0379a8-7917-4a31-b3dd-c6b56dcdc758)
-                                    
+![Screenshot (31)](https://github.com/hghyhghy/Simple-GUI-Website-Using_Python-/assets/140393712/f1e67d0e-c143-4926-8347-ce38378f45af)
+              
 
 
 😉 Hey This Is My Small Try and Experiment with  This App
